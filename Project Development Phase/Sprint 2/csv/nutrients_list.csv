@@ -1,0 +1,24 @@
+NAME,SERVING,CALORIES,FIBER,FAT,PROTEIN,WATER,SUGAR ,CARBOHYDRATES,FOOD TYPE
+Apple,100g,52,2.4g,0g,0.4g,84%,10g,14g,fruit
+Banana,100g,88,2.6g,0g,1.2g,76%,12g,23g,fruit
+Cantaloupe,100g,34,0.9g,0.2g,0.8g,89%,8g,8g,fruit
+Guava,100g,61,5g,0.58g,1.12g,83%,9g,14g,fruit
+Orange,100g,47,2.4g,0.1g,1g,87%,9g,12g,fruit
+Papaya,100g,43,1.7g,0.4g,8g,91%,8g,11g,fruit
+Pineapple,100g,50,1.4g,0g,0.4g,84%,10g,13g,fruit
+Pomegranate,100g,83,4g,0g,1g,82%,15g,19g,fruit
+Sapota,100g,98,5g,1.1g,0.7g,75%,47g,20g,fruit
+Watermelon,100g,30,0.4g,0.2g,0.6g,91%,6g,8g,fruit
+Green Grapes,100g,67,0.9g,0.4g,0.6g,83%,16g,17g,fruit
+Beetroot,100g,43,2.8g,0.2g,1.6g,88%,6.8g,9.6g,vegetable
+Cauliflower,93g,20,2g,2g,2g,93%,2g,5g,vegetable
+Corn,90g,96,2.4g,1.5g,3.4g,73%,4.5g,21g,vegetable
+Cucumber,99g,10,1g,0g,1g,96%,1g,2g,vegetable
+Brinjal,100g,25,3g,0.2g,1g,92%,3.5g,6g,vegetable
+Ginger,100g,80,2g,0.8g,1.8g,88%,1.7g,18g,vegetable
+Lemon (Lime),100g,29,2.8g,0.3g,1g,89%,2.5g,9g,vegetable
+Mango Raw,165g,99,2.6g,0.6g,1.4g,28%,23g,25g,vegetable
+Onion Big,148g,45,3g,0g,1g,86%,9g,11g,vegetable
+Potato,148g,110,2g,0g,3g,79%,1g,26g,vegetable
+Sweet Potato,130g,100,4g,0g,2g,77%,7g,23g,vegetable
+Tomato,148g,25,1g,0g,1g,95%,3g,5g,vegetable
