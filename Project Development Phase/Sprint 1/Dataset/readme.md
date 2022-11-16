@@ -2,7 +2,7 @@
 
 Dataset have been modified from the Fruits 360 dataset
 from kaggle. Dataset have been cut short from 45k images to 28k images
-based on relevance ortance of particular fruits and vegetables.
+based on relevance of particular fruits and vegetables.
 - [Enesh Naren A](https://github.com/Enesh1542)
 - [Suriya N](https://github.com/SuriyaNatarajan)
 
