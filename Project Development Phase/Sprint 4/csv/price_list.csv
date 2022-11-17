@@ -1,0 +1,24 @@
+NAME,WHOLESALE PRICE,RETAIL PRICE,SHOPPING MALL PRICE,QUANTITY,TYPE
+Onion Big,37,"[43, 47]","[44, 61]",1kg,vegetable
+Tomato,18,"[21, 23]","[22, 30]",1kg,vegetable
+Beetroot,43,"[49, 55]","[52, 71]",1kg,vegetable
+Potato,37,"[43, 47]","[44, 61]",1kg,vegetable
+Cauliflower,43,"[49, 55]","[52, 71]",1kg,vegetable
+Corn,22,"[25, 28]","[26, 36]",1kg,vegetable
+Cucumber,22,"[25, 28]","[26, 36]",1kg,vegetable
+Brinjal,19,"[22, 24]","[23, 31]",1kg,vegetable
+Brinjal (Big),27,"[31, 34]","[32, 45]",1kg,vegetable
+Ginger,38,"[44, 48]","[46, 63]",1kg,vegetable
+Lemon (Lime),55,"[63, 70]","[66, 91]",1kg,vegetable
+Mango Raw,108,"[124, 137]","[130, 178]",1kg,vegetable
+Sweet Potato,40,"[46, 51]","[48, 66]",1kg,vegetable
+Apple Shimla,95,"[109, 121]","[114, 157]",1kg,fruits
+Banana,39,"[45, 50]","[47, 64]",1kg,fruits
+Cantaloupe,28,"[32, 36]","[34, 46]",1kg,fruits
+Guava,49,"[56, 62]","[59, 81]",1kg,fruits
+Orange,69,"[79, 88]","[83, 114]",1kg,fruits
+Papaya,33,"[38, 42]","[40, 54]",1kg,fruits
+Pineapple,45,"[52, 57]","[54, 74]",1kg,fruits
+Pomegranate Kabul,135,"[155, 171]","[162, 223]",1kg,fruits
+Sapota,46,"[53, 58]","[55, 76]",1kg,fruits
+Watermelon,25,"[29, 32]","[30, 41]",1kg,fruits
