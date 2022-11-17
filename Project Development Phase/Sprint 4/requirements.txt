@@ -5,3 +5,4 @@ tensorflow
 cloudant
 pillow
 flask_login
+flask-sqlalchemy
